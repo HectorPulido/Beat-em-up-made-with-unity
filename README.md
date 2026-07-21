@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This project has moved.** It now lives in [`AwesomeUnityProjects/beat-em-up`](https://github.com/HectorPulido/AwesomeUnityProjects/tree/main/beat-em-up). This repo is archived and read-only.
+
 # Beat em up template
 
 **This is a Beat 'em up made with Unity and C#**, Beat 'em up, is a type of video game that emphasizes hand-to-hand combat between the player's character and a large number of enemies. The gameplay typically involves progressing through side-scrolling levels, with the primary objective being to defeat waves of adversaries. These games often feature a simple control scheme that allows players to execute various punches, kicks, and other melee attacks to dispatch enemies.
